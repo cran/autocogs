@@ -27,14 +27,14 @@ add_cog_group <- function(
   assert_function(fn)
   # assert_logical(verbose, len = 1, any.missing = FALSE)
 
-  cog_group <- data_frame(
+  cog_group <- tibble(
     name,
     fields = list(fields),
     description = description,
     fn = list(fn)
   )
 
-  known_cog_groups_ <<- bind_rows(known_cog_groups_, cog_group)
+  known_cog_groups_add(cog_group)
 
   assign(
     paste("autocog_", name, sep = ""),
