@@ -1,7 +1,7 @@
-94113884a37eb7c4bb590932d6e7fb64 *DESCRIPTION
+f08cca2db050bb061e51406ee1863e62 *DESCRIPTION
 cd93a0371f2677949c586d323fe6f76b *LICENSE
 66ac2ab0b01621ebef0de39577bcce6d *NAMESPACE
-9ef409c819b9fadbe1993549a7771864 *NEWS.md
+741725e25a913c0c5bd782eb19665b6e *NEWS.md
 413c64b5bed93f470f42e155b505f9c0 *R/add_cog_group.R
 dbcb6e793c7fa62f866e94dbc4dc1177 *R/add_cog_group_.R
 21bd15ec7120183e0ab5b4ddf04e2db1 *R/add_layer_cogs.R
@@ -13,11 +13,11 @@ c1e0d3cc9ade828244cb23653ac2e322 *R/field_info.R
 1a721c569f2418fcbb617a2ade14ce38 *R/known_cog_groups.R
 c2f3b479090c0b3eb4bda2d5115d3dce *R/known_layer_cogs.R
 60a8274825f2033f7b11fc1ed2086494 *R/layer_count.R
-06aa3dc98420b35cbde17c188115c328 *R/layer_info.R
+677116f8d7d20db72eb00a3595216920 *R/layer_info.R
 89966b4ecbddc5fdbe48ea32aefb50dc *R/of_type.R
 162c0e3d09b9e7fe4601c842d3f89a14 *R/plot_class.R
 e2145c72406c8ce49a0164e452ae82d1 *R/plot_cogs.R
-9f7733dabf247062c1e53a4ca0aac4ed *README.md
+70a459eef97f0c956c2a11c4c0fbeb58 *README.md
 6d428b972ae56c036176f143685610a5 *man/add_cog_group.Rd
 bd72591390089cce2fbd06acf81ba3bf *man/add_layer_cogs.Rd
 8b087a43a086178c4bd565a19148db41 *man/autocog.Rd
